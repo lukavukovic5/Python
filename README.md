@@ -1,2 +1,2 @@
 # Python
-Python program za izradu jelovnika
+Python program
